@@ -55,7 +55,11 @@ body{
 
 .content{
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
-
+.navbar.scrolled{
+    background: rgb(222, 192, 222);
+    transition:  500ms;
+}
 
